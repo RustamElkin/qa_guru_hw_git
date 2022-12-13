@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello New world!");
-        System.out.println("The world is mine_song");
+        System.out.println("DELETE info from song");
     }
 }
